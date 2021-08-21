@@ -1,0 +1,17 @@
+.contzul {
+    background-color: aqua;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+}
+
+h1 {
+    color: orangered;
+}
+
+button.btn.btn-primary {
+    background-color: orangered;
+}
